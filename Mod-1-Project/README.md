@@ -1,4 +1,4 @@
-# Module 1 Project
+# Kids Just Want to Dance - An NYC Music Scene Dashboard
 ![alt text](https://github.com/briansrebrenik/Mod-1-Project/blob/master/screenshots/Screen%20Shot%202018-11-19%20at%201.23.52%20PM.png?raw=true)
 
 What we used:
